@@ -1,23 +1,36 @@
-# Leonardo Lameda
+<h1 align="center">Leonardo Lameda</h1>
 
-**Computer Engineering Student · AI & Data**
+<p align="center">
+  <b>Computer Engineering Student</b> · AI Engineering · Data Analytics
+</p>
 
-I build AI-powered tools, automations and data solutions, turning practical problems into clean, working software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-lameda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brazil-2b3137?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo, Brazil"/>
+</p>
 
-- Focused on AI engineering, LLM applications and data analysis
-- Currently exploring AI agents and workflow automation
-- Fluent in English, Portuguese and Spanish
-- Based in São Paulo, Brazil
+---
+
+### About
+
+Computer Engineering student building AI-powered tools, automations and data-driven solutions. I enjoy turning real-world problems into simple, reliable software.
+
+### Focus Areas
+
+- **AI Engineering** — LLM applications, AI agents and intelligent workflows
+- **Automation** — streamlining repetitive processes with code
+- **Data Analysis** — turning data into clear insights with Python
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,github,vscode" alt="Tech stack"/>
+</p>
 
-### Connect
+### Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lameda/)
+English (Fluent) · Portuguese (Native) · Spanish (Fluent)
+
+### Get in Touch
+
+Open to internship opportunities in AI Engineering and Data Analytics. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-lameda/).
