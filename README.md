@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-lameda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:leonardo.n.lameda@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -31,4 +32,7 @@ English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
 Available for freelance projects, contract work and collaborations — AI integrations, automations, data analysis, websites and custom tools.
 
-Have a project in mind? Let's talk on [LinkedIn](https://www.linkedin.com/in/leonardo-lameda/).
+Have a project in mind? Let's talk:
+
+- **Email:** [leonardo.n.lameda@gmail.com](mailto:leonardo.n.lameda@gmail.com)
+- **LinkedIn:** [linkedin.com/in/leonardo-lameda](https://www.linkedin.com/in/leonardo-lameda/)
