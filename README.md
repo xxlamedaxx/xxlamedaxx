@@ -8,13 +8,14 @@
 
 ### About
 
-I build AI-powered tools, automations and data-driven solutions, turning real-world problems into simple, reliable software.
+I design and build software that solves real business problems — from AI agents and process automation to data analysis and web applications. My focus is delivering practical, reliable solutions that save time and help businesses grow.
 
 ### Focus Areas
 
 - **AI Engineering** — LLM applications, AI agents and intelligent workflows
 - **Automation** — streamlining repetitive processes with code
 - **Data Analysis** — turning data into clear insights with Python
+- **Web Development** — modern, fast websites and web applications
 
 ### Tech Stack
 
@@ -28,4 +29,6 @@ English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
 ### Get in Touch
 
-Open to new opportunities and collaborations in AI Engineering and Data Analytics. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-lameda/).
+Available for freelance projects, contract work and collaborations — AI integrations, automations, data analysis, websites and custom tools.
+
+Have a project in mind? Let's talk on [LinkedIn](https://www.linkedin.com/in/leonardo-lameda/).
